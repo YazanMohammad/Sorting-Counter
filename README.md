@@ -1,7 +1,7 @@
 # Sorting-Counter
 
 
-The main purpose of this project it to countn how many operations the sorting algorithm have to make before being sorted
+The main purpose of this project is to count how many operations the sorting algorithm have to make before being sorted
 
 
 -Language : it was made using Visual Basic C#
